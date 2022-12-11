@@ -1,7 +1,14 @@
 import { expect, it } from "vitest";
 
+// Note: we should prefer Record when the type does not have any additional fields
+type Cache =
+  | {
+      [id: string]: string;
+    }
+  | Record<string, string>;
+
 const createCache = () => {
-  const cache = {};
+  const cache: Cache = {};
 
   const add = (id: string, value: string) => {
     cache[id] = value;
