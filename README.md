@@ -1,3 +1,7 @@
+# Note
+
+This repository is a fork of [beginners typescript tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) and it holds the solutions for the problems presented in the tutorial, together with the learning notes made along the way.
+
 <a href="https://totaltypescript.com/tutorials/beginners-typescript"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1664461034/beginners-typescript-tutorial/github_2x_himnyi.png" alt="beginner typescript tutorial" /></a>
 
 ## Quickstart
