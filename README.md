@@ -1,6 +1,10 @@
-# Note
+# Fork note
 
-This repository is a fork of [beginners typescript tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) and it holds the solutions for the problems presented in the tutorial, together with the learning notes made along the way.
+This repository is a fork of [beginners typescript tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) and it holds the solutions for the problems presented in the tutorial, together with the learning notes made along the way. These notes are available as inline code comments within the exercise files.
+
+## Course review
+
+This course is suitable for a developer experienced in vanilla JavaScript that wants to quickly start using TypeScript. All the concepts needed for daily use are covered here. This course does not go into deeper explanations so if you need to write types that other developers will use (such as library type definitions) you should look into other resources.
 
 <a href="https://totaltypescript.com/tutorials/beginners-typescript"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1664461034/beginners-typescript-tutorial/github_2x_himnyi.png" alt="beginner typescript tutorial" /></a>
 
